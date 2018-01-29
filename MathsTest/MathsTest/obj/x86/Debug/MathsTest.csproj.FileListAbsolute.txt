@@ -1,0 +1,5 @@
+/Users/rajaulkarim/Documents/Project/MathsTest/MathsTest/bin/Debug/MathsTest.exe
+/Users/rajaulkarim/Documents/Project/MathsTest/MathsTest/bin/Debug/MathsTest.pdb
+/Users/rajaulkarim/Documents/Project/MathsTest/MathsTest/obj/x86/Debug/MathsTest.csproj.CoreCompileInputs.cache
+/Users/rajaulkarim/Documents/Project/MathsTest/MathsTest/obj/x86/Debug/MathsTest.exe
+/Users/rajaulkarim/Documents/Project/MathsTest/MathsTest/obj/x86/Debug/MathsTest.pdb

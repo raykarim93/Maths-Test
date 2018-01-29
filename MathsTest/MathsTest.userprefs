@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{E6C2C115-343E-4A43-80CC-2D1183CE6D98}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MathsTest/Program.cs">
+    <Files>
+      <File FileName="MathsTest/Program.cs" Line="1025" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <RunToCursorBreakpoint file="/Users/rajaulkarim/Documents/Project/MathsTest/MathsTest/Program.cs" relfile="MathsTest/Program.cs" line="975" column="25" />
+      <Breakpoint file="/Users/rajaulkarim/Documents/Project/MathsTest/MathsTest/EmptyClass.cs" relfile="MathsTest/EmptyClass.cs" line="33" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MathsTest PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
